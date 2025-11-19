@@ -18,3 +18,8 @@ Explica qué quieres lograr con este proyecto.
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/tu-usuario/tu-repo.git
+2. Entra a la carpeta del proyecto:
+   ```bash
+   cd Primer-proyecto
+
+Esto cumple la parte 2 de esa sección, porque tu proyecto **no tiene código ejecutable**, así que simplemente explicas eso.
