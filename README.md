@@ -22,4 +22,4 @@ Explica qué quieres lograr con este proyecto.
    ```bash
    cd Primer-proyecto
 
-Esto cumple la parte 2 de esa sección, porque tu proyecto **no tiene código ejecutable**, así que simplemente explicas eso.
+El proyecto no tiene código ejecutable
